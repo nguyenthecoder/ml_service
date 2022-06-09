@@ -1,4 +1,4 @@
-### News sentiment service app
+### ML Service app
 
 Setup guide:
 
